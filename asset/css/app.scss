@@ -82,6 +82,10 @@ body {
        font-size:$body-size;
        line-height:1.4;
 
+       p {
+           padding: $line-global 0 $line-global 0;
+       }
+
        img {
            width:100%;
        }
